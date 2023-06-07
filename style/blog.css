@@ -1,0 +1,26 @@
+.header{
+   height: 200px;
+    /* background-image: url('../photo.jpg.jpg'); */
+    background-image: url(../images/world.png);
+    background-size:contain;
+    background-position: center ;
+    color: brown;
+    background-color: aqua;
+    /* background-blend-mode: hard-light; */
+   
+    
+    background-repeat: no-repeat;
+}
+
+p{
+    color: blueviolet;
+}
+.p-title{
+    color: brown;
+}
+.page-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    color: aqua;
+}
